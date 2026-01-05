@@ -1,0 +1,26 @@
+{
+  "name": "nordic-shadow",
+  "displayName": "Nordic Shadow",
+  "description": "Just another Nord declination",
+  "author": {
+    "name": "Nickaël R.",
+    "email": "hi@nickaelr.com",
+    "url": "https://nickaelr.com"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.107.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nordic Shadow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nordic Shadow-color-theme.json"
+      }
+    ]
+  }
+}
