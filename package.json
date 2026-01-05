@@ -4,10 +4,14 @@
   "description": "Just another Nord declination",
   "author": {
     "name": "Nickaël R.",
-    "email": "hi@nickaelr.com",
+    "email": "contact@nickaelr.com",
     "url": "https://nickaelr.com"
   },
-  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nickael/nordic-shadow"
+  },
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.107.0"
   },
